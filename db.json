@@ -2,8 +2,8 @@
 	"posts": [
 	    {
 	 	    "id": 1,
-   		    "title": "hello",
-		    "qwerty": 2
+		    "categorie": "Lavado",
+		    "logo": "https://www.eltiempo.com/files/article_main/uploads/2020/05/08/5eb5a8570a2ba.jpeg"
 	   }
 	],
   	"profile": {
