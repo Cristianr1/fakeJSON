@@ -3,22 +3,58 @@
         {
             "id": 1,
             "categorie": "Lavado",
-            "logo": "https://www.eltiempo.com/files/article_main/uploads/2020/05/08/5eb5a8570a2ba.jpeg"
+            "logo": "https://www.eltiempo.com/files/article_main/uploads/2020/05/08/5eb5a8570a2ba.jpeg",
+            "products": [
+                {
+                    "id": "7ba650f6-0b80-11eb-adc1-0242ac120002",
+                    "name": "Lavado1",
+                    "price": 1500
+                },
+                {
+                    "id": "7ba65308-0b80-11eb-adc1-0242ac120002",
+                    "name": "Lavado2",
+                    "price": 1400
+                },
+                {
+                    "id": "7ba654ca-0b80-11eb-adc1-0242ac120002",
+                    "name": "Lavado3",
+                    "price": 1300
+                }
+            ]
         },
         {
             "id": 2,
             "categorie": "Planchado",
-            "logo": "https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/nota_periodistica/Planchado_10_1575459732.jpg"
+            "logo": "https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/nota_periodistica/Planchado_10_1575459732.jpg",
+            "products": [
+                {
+                    "id": "dc44716c-0b81-11eb-adc1-0242ac120002",
+                    "name": "Planchado1",
+                    "price": 2000
+                },
+                {
+                    "id": "dc4473e2-0b81-11eb-adc1-0242ac120002",
+                    "name": "Planchado2",
+                    "price": 2100
+                },
+                {
+                    "id": "dc4474d2-0b81-11eb-adc1-0242ac120002",
+                    "name": "Planchado3",
+                    "price": 1200
+                }
+            ]
         },
         {
             "id": 3,
             "categorie": "Lavado en seco",
-            "logo": "http://www.industrialwash.com.pe/blog/wp-content/uploads/2017/10/lavado-en-seco.jpg"
+            "logo": "http://www.industrialwash.com.pe/blog/wp-content/uploads/2017/10/lavado-en-seco.jpg",
+            "products": []
         },
         {
             "id": 4,
             "categorie": "Remiendos",
-            "logo": "https://cdn1.comohacerpara.com/imgn/05769-hacer-remiendos-sencillos-ropa.jpg"
+            "logo": "https://cdn1.comohacerpara.com/imgn/05769-hacer-remiendos-sencillos-ropa.jpg",
+            "products": []
         }
     ],
     "profile": {
