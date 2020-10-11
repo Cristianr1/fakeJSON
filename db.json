@@ -1,15 +1,11 @@
 {
   "posts": [
     {
-        "categorie": "Lavado",
-        "logo": "https://www.eltiempo.com/files/article_main/uploads/2020/05/08/5eb5a8570a2ba.jpeg"
-    },
-    {
-        "categorie": "Planchado",
-        "logo": "https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/nota_periodistica/Planchado_10_1575459732.jpg"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "Cristianr1"
+    "name": "typicode"
   }
 }
