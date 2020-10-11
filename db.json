@@ -6,8 +6,19 @@
             "logo": "https://www.eltiempo.com/files/article_main/uploads/2020/05/08/5eb5a8570a2ba.jpeg"
         },
         {
+            "id": 2,
             "categorie": "Planchado",
             "logo": "https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/nota_periodistica/Planchado_10_1575459732.jpg"
+        },
+        {
+            "id": 3,
+            "categorie": "Lavado en seco",
+            "logo": "http://www.industrialwash.com.pe/blog/wp-content/uploads/2017/10/lavado-en-seco.jpg"
+        },
+        {
+            "id": 4,
+            "categorie": "Remiendos",
+            "logo": "https://cdn1.comohacerpara.com/imgn/05769-hacer-remiendos-sencillos-ropa.jpg"
         }
     ],
     "profile": {
