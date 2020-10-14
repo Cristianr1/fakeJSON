@@ -59,5 +59,22 @@
     ],
     "profile": {
         "name": "Cristianr1"
-    }
+    },
+    "balance": [
+        {
+            "id": "7ba650f6-0b80-11eb-adc1-0242ac120002",
+            "name": "Lavado1",
+            "quantity": 5
+        },
+        {
+            "id": "7ba65308-0b80-11eb-adc1-0242ac120002",
+            "name": "Lavado2",
+            "quantity": 3
+        },
+        {
+            "id": "dc4473e2-0b81-11eb-adc1-0242ac120002",
+            "name": "Planchado2",
+            "price": 6
+        }
+    ]
 }
